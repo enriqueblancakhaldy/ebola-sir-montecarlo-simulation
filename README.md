@@ -5,7 +5,7 @@ The 2014 West Africa Ebola outbreak in Sierra Leone presented unprecedented epid
 <img width="863" height="552" alt="descarga" src="https://github.com/user-attachments/assets/58a29552-0b85-4497-82ff-a696ba50333d" />
 
 
-* **RMSE** obtained: $1,245.14$.
+* **RMSE** obtained: $1,245.14$ infectious individuals.
 
 * ## Model Limitations & Diagnostics
 
