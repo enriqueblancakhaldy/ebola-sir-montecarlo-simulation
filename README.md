@@ -15,7 +15,7 @@ The simulation reveals significant divergence between the predicted trajectory a
 * **Low Interval Coverage ($40\%$):** The $90\%$ confidence interval contains only $40\%$ of the observed empirical data points. This severe underestimation confirms that the basic stochastic SIR model fails to capture the full variance of the outbreak.
 * **Heteroscedastic Uncertainty:** The outbreak dynamics display clear heteroscedasticity. While actual case fluctuations remain bounded, the model's simulated variance expands drastically over time, creating a wide uncertainty fan late in the timeline that misses the actual trend.
 
-##Future work
+## Future work
 * To address the limitations of the baseline SIR model and better capture the complex dynamics of the outbreak, future iterations of this project can focus on the following extensions:
 
 * **Structural Compartmental Extensions (SEIR Framework):** Incorporating an *Exposed* ($E$) compartment to model the latent incubation period characteristic of the Ebola virus, where individuals are infected but not yet infectious.
